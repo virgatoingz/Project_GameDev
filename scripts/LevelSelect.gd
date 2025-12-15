@@ -10,4 +10,4 @@ func _on_banjir_button_pressed():
 
 func _on_kebakaran_button_pressed():
 	GameState.disaster_selected = "kebakaran"
-	get_tree().change_scene_to_file("res://scenes/menus/Basecamp.tscn")
+	get_tree().change_scene_to_file("res://scenes/levels/Map_Kebakaran.tscn")

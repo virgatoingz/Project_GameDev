@@ -40,3 +40,4 @@ text = "back
 
 [connection signal="pressed" from="MarginContainer/LevelButtons/GempaButton" to="." method="_on_gempa_button_pressed"]
 [connection signal="pressed" from="MarginContainer/LevelButtons/BanjirButton" to="." method="_on_banjir_button_pressed"]
+[connection signal="pressed" from="MarginContainer/LevelButtons/KebakaranButton" to="." method="_on_kebakaran_button_pressed"]
