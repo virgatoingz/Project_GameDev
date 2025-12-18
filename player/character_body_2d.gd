@@ -1,7 +1,7 @@
 extends CharacterBody2D
 
 @onready var sprite = $AnimatedSprite2D
-var speed = 200
+var speed = 2000
 var last_direction = "South" # arah awal default
 
 func _ready():

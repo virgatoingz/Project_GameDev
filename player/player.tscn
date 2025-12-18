@@ -287,7 +287,7 @@ animations = [{
 }]
 
 [node name="CharacterBody2D" type="CharacterBody2D"]
-collision_mask = 0
+collision_mask = 16
 motion_mode = 1
 wall_min_slide_angle = 0.18151425
 script = ExtResource("1_4cdfs")
